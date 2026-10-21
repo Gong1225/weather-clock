@@ -4,6 +4,14 @@
 
 > 开源版本已移除全部上游原作者标识与版本水印，仅保留纯净可复刻的工程。
 
+**仓库地址**：<https://github.com/Gong1225/weather-clock>
+
+```bash
+# 克隆本仓库
+git clone git@github.com:Gong1225/weather-clock.git
+cd weather-clock
+```
+
 ---
 
 ## 功能特性
